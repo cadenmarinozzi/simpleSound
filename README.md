@@ -3,14 +3,14 @@ A very very very simple sound playing library.
 
 Documentation:
 ```
-SoundLib:
+SimpleSound:
   play(fileName);
 ```
 
 Example Usage:
 ```Python
-from soundLib import SoundLib
+from simpleSound import SimpleSound
 
-soundLib = SoundLib();
-soundLib.play("Sound.mp3");
+simpleSound = SimpleSound();
+simpleSound.play("Sound.mp3");
 ```
