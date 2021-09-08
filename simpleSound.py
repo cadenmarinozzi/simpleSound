@@ -11,4 +11,4 @@ class SimpleSound():
             windowsCommand("play " + fileName + " wait");
             windowsCommand("close " + fileName);
         else:
-            print(fileName + " could not be found.");
+            return fileName + " could not be found.";
