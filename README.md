@@ -4,7 +4,7 @@ A very very very simple sound playing library.
 Documentation:
 ```
 SimpleSound:
-  play(fileName);
+  play(fileName); -> if the file doesn't exist it returns: fileName + " could not be found";
 ```
 
 Example Usage:
