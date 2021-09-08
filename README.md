@@ -2,7 +2,8 @@
 A very very very simple sound playing library.
 
 Documentation:
-```SoundLib:
+```
+SoundLib:
   play(fileName);
 ```
 
