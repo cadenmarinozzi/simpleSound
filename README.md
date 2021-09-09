@@ -1,5 +1,5 @@
 # simpleSound
-A very very very simple sound playing library.
+A very very very simple sound playing library for windows.
 
 Documentation:
 ```
