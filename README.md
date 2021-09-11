@@ -21,8 +21,7 @@ https://github.com/nekumelon/simpleSound.git
 
 Example Usage:
 ```Python
-from simpleSound import SimpleSound
+from simpleSound import play
 
-simpleSound = SimpleSound();
-simpleSound.play("Sound.mp3");
+play("Sound.mp3");
 ```
