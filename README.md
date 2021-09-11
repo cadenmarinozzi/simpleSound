@@ -3,8 +3,7 @@ A very very very simple sound playing library for windows.
 
 Documentation:
 ```
-SimpleSound:
-  play(fileName); -> if the file doesn't exist it returns: fileName + " could not be found";
+play(fileName);
 ```
 
 Installation:
