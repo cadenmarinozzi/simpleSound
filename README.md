@@ -7,6 +7,16 @@ SimpleSound:
   play(fileName); -> if the file doesn't exist it returns: fileName + " could not be found";
 ```
 
+Installation:
+```
+pip/3 install simpleSound
+
+example:
+pip install simpleSound
+pip3 install simpleSound
+
+```
+
 Example Usage:
 ```Python
 from simpleSound import SimpleSound
