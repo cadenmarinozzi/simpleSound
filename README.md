@@ -15,6 +15,9 @@ example:
 pip install simpleSound
 pip3 install simpleSound
 
+or clone this repository with:
+https://github.com/nekumelon/simpleSound.git
+
 ```
 
 Example Usage:
