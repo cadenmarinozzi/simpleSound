@@ -1,9 +1,9 @@
 # simpleSound
-A very very very simple sound playing library for windows.
+A very very very simple sound playing library for Windows, Linux, and Mac OS.
 
 Documentation:
 ```
-play(fileName);
+play(fileName); -> fileName has to be a wav for linux based systems.
 ```
 
 Installation:
